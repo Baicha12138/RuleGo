@@ -214,7 +214,6 @@ DOMAIN-SUFFIX,zophar.net
 DOMAIN-SUFFIX,zyxel.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,google.com
 
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,cdn.statically.io
