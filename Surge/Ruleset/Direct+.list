@@ -28,6 +28,8 @@ DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
 # ------
 
+DOMAIN-SUFFIX,edu.cn
+
 # > Tencent
 DOMAIN,fairplay.l.qq.com
 DOMAIN,livew.l.qq.com
